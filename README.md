@@ -1,17 +1,16 @@
 # 🚀 SpaceIT
+Sistema de Gestión de Espacios de Trabajo.
 
-**Sistema de Gestión y Reserva de Espacios de Trabajo.**
+## 📌 Acceso Rápido
+- [Prototipo Funcional (Figma)](#link)
+- [Wiki de Documentación Téctica](#link-wiki)
 
-SpaceIT es una plataforma diseñada para optimizar la reserva de salas de juntas, puestos de coworking y recursos compartidos en entornos corporativos o académicos.
+## 🏗️ Arquitectura
+Utilizamos el **Modelo C4** para garantizar una arquitectura escalable:
+- **Contexto**: Relación con actores externos.
+- **Contenedores**: Despliegue tecnológico.
 
-## 📂 Estructura del Proyecto
-* **src/**: Código fuente de la aplicación.
-* **docs/**: Documentación técnica, diagramas C4 y UML.
-
-## 🛠️ Tecnologías Sugeridas
-* **Lenguaje:** Java / Python (según definas).
-* **Base de Datos:** MySQL / PostgreSQL.
-* **Control de Versiones:** Git & GitHub.
-
----
-*Proyecto desarrollado para la facultad de Ingeniería de Sistemas.*
+## 🛠️ Tecnologías de Diseño
+- **Modelado**: C4 Model, UML 2.5.
+- **Prototipado**: Figma.
+- **Gestión**: GitHub Projects (Metodología Ágil).
