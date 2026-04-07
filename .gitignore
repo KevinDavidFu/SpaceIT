@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos temporales de compilación (comunes en Java/C#)
+bin/
+obj/
+target/
+*.class
+*.log
